@@ -1,4 +1,4 @@
-# Harvardx-Data-Science-Course
+# Harvardx-Data-Science-Courses
 This repository stores some assesments I've completed in the Harvardx Data Science courses. Please note that although I completed the whole course, I did not document all of the assignments in GitHub. 
 
 HarvardxCourses: 
