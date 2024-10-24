@@ -6,8 +6,11 @@ This repository stores some assessments I've completed in the Harvardx Data Scie
 
 [Data Science: Visualization](https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization) (see in [Visualization Course Folder](https://github.com/AliciaAlcarazTsele/R_Harvardx-Data-Science-Course/tree/main/Visualization%20Course))
     
-## Coding Language: R
+## Coding Language: 
+R
 
-## Integrated Development Environment (IDE): RStudio
+## Integrated Development Environment (IDE): 
+RStudio
 
-## R Skills: Discrete Probability (Addition Rule, Monty Hall), Continuous Probability, Data Visualization (gplot, boxplot, histogram)
+## R Skills: 
+Discrete Probability (Addition Rule, Monty Hall), Continuous Probability, Data Visualization (gplot, boxplot, histogram)
