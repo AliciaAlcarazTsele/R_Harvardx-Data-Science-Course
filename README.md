@@ -6,15 +6,8 @@ HarvardxCourses:
     2 - Data Science: Visualization https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization
 
 Coding Language: R
+
 Integrated Development Environment (IDE): RStudio
 
-R Skills: 
-  Discrete Probability 
-    Addition Rule 
-    Monty Hall 
-  Continuous Probability
-  Data Visualization
-    gplot
-    boxplot
-    histogram
+R Skills: Discrete Probability (Addition Rule, Monty Hall), Continuous Probability, Data Visualization (gplot, boxplot, histogram)
     
